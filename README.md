@@ -10,6 +10,11 @@ This project implements various machine learning and deep learning techniques fo
 
 ## 📊 Dataset
 
+The data was collected by Joanna Sendorek et al. for 3D printing anomalies de-
+tection. The data was collected during 3D printing process where several types of
+annomalies were provoked and includes the temperature of working elements of the
+printer, instruction force and the acceleration of printing head. The 3D printer used to
+get data was Monkeyfab Spire, which was manufactured by Monkeyfab.
 The dataset consists of sensor readings from 3D printing operations, including:
 
 - **Accelerometer Data**: 
